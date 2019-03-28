@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Conversational AI Design Guidance
 
 Azure Bot Service enables you to build intelligent, enterprise-grade bots with complete ownership and control of your data. Begin with a simple Q&A bot or build a sophisticated virtual assistant.
@@ -312,7 +311,4 @@ Enjoy.
 [40]: https://gist.github.com/ikivanc/0d10161bb0fccaa601b89adcaf86beb6
 [41]: https://gist.github.com/ikivanc/dbad21d4266b9b735e48b1410052dd14
 [60]: https://github.com/Microsoft/BotBuilder-Samples/blob/master/samples/javascript_nodejs/03.welcome-users
-=======
-# Bot Builder Community - Docs
-Documentaion and other assets supporting Bot Builder SDK like guidelines and infographics.
->>>>>>> 6f808701017d150acde0a2776a7d1d7efd5fef89
+
